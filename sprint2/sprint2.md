@@ -40,7 +40,6 @@ Nivel 3
 Nivell 4
 
 <img width="536" height="475" alt="image" src="https://github.com/user-attachments/assets/8712b841-59b8-4dce-94ed-c59baa1b7902" />
-<img width="995" height="490" alt="image" src="https://github.com/user-attachments/assets/b889d18f-df94-4f65-9c36-6f9fed8b74eb" />
 
 
 
@@ -61,3 +60,4 @@ Nivell 5
 
 Nivell 6
 
+<img width="995" height="490" alt="image" src="https://github.com/user-attachments/assets/b889d18f-df94-4f65-9c36-6f9fed8b74eb" />
